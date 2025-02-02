@@ -76,4 +76,4 @@ def display_recipe(contents,filename,date):
     
 
 if __name__ == '__main__':
-    app.run_server(debug=True, host='localhost')
+    app.run_server(debug=False, host='localhost')
